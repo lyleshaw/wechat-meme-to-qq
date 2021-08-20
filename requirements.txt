@@ -2,4 +2,4 @@ python-dotenv
 pymysql
 sqlalchemy
 requests
-wechaty
+wechaty==0.6.24
