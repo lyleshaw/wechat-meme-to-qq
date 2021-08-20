@@ -1,4 +1,5 @@
-dotenv
+python-dotenv
+pymysql
 sqlalchemy
 requests
 wechaty
