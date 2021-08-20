@@ -1,6 +1,6 @@
-# wechat-meme-to-qq [![Python 3.7](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
+# wechat-meme-to-qq [![Python 3.7](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-379/)
 
-A Kit That Can Convert WeChat Emme to QQ
+A Kit That Can Convert WeChat Meme to QQ
 
 ## Cause
 
@@ -17,10 +17,22 @@ A Kit That Can Convert WeChat Emme to QQ
 ## Usage
 
 > 私有化部署需拥有一个 Wechaty Token 哦！
+> 同时需搭建一个 cqhttp 的 QQ 机器人。
 
 ```shell
 python3 src/main.py
 ```
+
+## Example
+
+同时添加如下两个微信/QQ。
+
+![image](https://user-images.githubusercontent.com/25427168/130254178-b7c33cfe-135e-4c73-951e-9c40e5bc383f.png)
+![image](https://user-images.githubusercontent.com/25427168/130254207-fe85c17b-11ff-420f-8d1a-8fe5823cbede.png)
+
+然后就可以使用啦！
+
+![image](https://user-images.githubusercontent.com/25427168/130254457-33eff23b-6e2e-416e-af48-0554fc725a84.png)
 
 ## Authors
 
